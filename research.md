@@ -1,3 +1,10 @@
+
+---
+layout: page
+title: Research
+subtitle: 
+---
+
 # Papers 
 - connector 
 - faraday
