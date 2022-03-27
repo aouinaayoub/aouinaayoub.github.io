@@ -14,7 +14,7 @@ author: Ayoub Aouina
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Research: "research"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -40,7 +40,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ayoub.aouina@polytechnique.edu"
+  email: "ayoubaouina@outlook.com"
   #facebook: deanattali
   #github: daattali
   #twitter: daattali
