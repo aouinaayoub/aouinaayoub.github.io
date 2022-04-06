@@ -22,3 +22,5 @@ I have presented my research at the following conferences, workshops and seminar
 
 [test](www.ayoubaouina.ml){:target="\_blank"}
 
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
