@@ -20,7 +20,6 @@ I have presented my research at the following conferences, workshops and seminar
 - The ETSF Correlation Team Meeting, Palaiseau, 2018 (Oral presentation).
 - The 23th ETSF Workshop on Electronic Excitations Milan, 2018 (Poster).
 
-[test](www.ayoubaouina.ml){target="_blank"}
-
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+[comment]: <> (This is a comment, it will not be included <a href="http://example.com/" target="_blank">Hello, world!</a>  )
+  
 
