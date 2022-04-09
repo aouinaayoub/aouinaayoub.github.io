@@ -4,21 +4,6 @@ title: Research
 subtitle: 
 ---
 
-`` what is this ``
-
-<pre><code> import numpy as np
-</code></pre>
-
-```python 
-import numpy as np 
-```
-```
----
-title: Contact me
-subtitle: Here you'll find all the ways to get in touch with me
----
-```
-
 # Papers
 
 - [Re-using model results to determine materials properties: connector theory approach](https://arxiv.org/abs/1903.07930) (in review), M. Vanzini, A. Aouina, M. Panholzer, M. Gatti and L. Reining, arXiv:1903.07930.
