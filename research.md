@@ -9,6 +9,9 @@ subtitle:
 <pre><code> import numpy as np
 </code></pre>
 
+```python 
+import numpy as np 
+```
 
 # Papers
 
