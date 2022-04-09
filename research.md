@@ -6,6 +6,9 @@ subtitle:
 
 `` what is this ``
 
+<pre><code> import numpy as np
+</code></pre>
+
 
 # Papers
 
