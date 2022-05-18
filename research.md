@@ -6,7 +6,7 @@ subtitle:
 
 # Papers
 
-- [Re-using model results to determine materials properties: connector theory approach](https://www.nature.com/articles/s41524-022-00762-2) npj computational materials (2022), M. Vanzini, A. Aouina, M. Panholzer, M. Gatti and L. Reining.
+- [Connector theory for reusing model results to determine materials properties](https://www.nature.com/articles/s41524-022-00762-2) npj computational materials (2022), M. Vanzini, A. Aouina, M. Panholzer, M. Gatti and L. Reining.
 - [Strategies to build functionals of the density, or functionals of Green’s functions: what can we learn?](https://pubs.rsc.org/en/content/articlelanding/2020/fd/d0fd00068j), A. Aouina, M. Gatti and L. Reining, Faraday Discussions (2020).
 
 # Conferences
