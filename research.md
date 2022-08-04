@@ -6,6 +6,7 @@ subtitle:
 
 # Papers
 
+- [Accurate Kohn-Sham auxiliary system from the ground state density of solids](https://arxiv.org/abs/2207.03919), arxiv:2207.03919, A. Aouina, M. Gatti, S. Chen, S. Zhang and L. Reining. 
 - [Connector theory for reusing model results to determine materials properties](https://www.nature.com/articles/s41524-022-00762-2), npj Computational Materials (2022), M. Vanzini, A. Aouina, M. Panholzer, M. Gatti and L. Reining.
 - [Strategies to build functionals of the density, or functionals of Green’s functions: what can we learn?](https://pubs.rsc.org/en/content/articlelanding/2020/fd/d0fd00068j), A. Aouina, M. Gatti and L. Reining, Faraday Discussions (2020).
 
